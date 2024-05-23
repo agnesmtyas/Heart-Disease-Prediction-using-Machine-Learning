@@ -1,3 +1,5 @@
+![image](https://github.com/agnesmtyas/Heart-Disease-Prediction-using-Machine-Learning/assets/161667923/f2d008bd-77b8-49d2-b936-a50db9c1bae3)
+
 # Heart Disease Prediction using Machine Learning
 Project ini bertujuan untuk membangun model machine learning yang dapat memprediksi kemungkinan seserogan terkena penyakit jantung. Penyakit jantung adalah kondisi medis yang melibatkan berbagai gangguan yang mempengaruhi kinerja jantung. Beberapa jenis penyakit jantung meliputi penyakit arteri koroner, gagal jantung, aritmia, dan penyakit jantung bawaan.
 Data yang dianalisis menggunakan dataset penyakit jantung "Heart Disease Dataset" yang bersumber dari Kaggle. Data ini diambil sejak tahun 1988 yang terdiri dari 4 wilayah, yaitu Cleveland, Hungary, Switzerland, dan Long Beach V.
